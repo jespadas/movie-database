@@ -1,4 +1,4 @@
-# vue-movie-database
+# Movie database with Vue3
 
 ## Project setup
 ```
